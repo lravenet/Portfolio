@@ -1,3 +1,12 @@
 title: Portfolio - Epreuve E5
 description: Mon parcours de professionnalisation
-theme: jekyll-theme-dinky
+#on commente cette ligne pour désactiver le thème "tactile"
+#theme: jekyll-theme-tactile
+remote_theme: "mmistakes/minimal-mistakes
+plugins:
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-gist
+- jekyll-feed
+- jemoji
+- jekyll-include-cache
